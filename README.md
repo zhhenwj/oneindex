@@ -9,6 +9,8 @@ Onedrive Directory Index
 ## demo
 [https://xn.tn](https://xn.tn)  
 
+#https://heroku.com/deploy
+
 ## change log:  
 18-03-29: 更新直链获取机制、缓存机制，避免频繁访问的token失效  
 18-03-29: 解决非英文编码问题  
